@@ -1,29 +1,22 @@
-h1 {
-	color: white;
-	background-color: rgb(61, 11, 31);
-	width: 500px;
-	text-align: center;
-	font-family: "Constantia";
-	font-size: 100;
-}
+h1 { color: green;
+		background-color: #9b5a74;
+		text-align: right;  }
 
-h2 {
-	color: rgb(0,255,0);}
+h2 { font-family: "Georgia";
+	font-size: 150; 
+	text-align: center;}
 
-p { background-color: #808080 }
+p { border-style: solid;
+	border-color: red;
+	margin: 50px }
 
-ol { 
-	margin:50px 10px 50px 10px; 
-	border-style: dotted;
-	padding-top: 10px;
-}
 
-li { padding-bottom: 15px; }
+ #bird{ color: blue }
 
-img {
+ #mammal{ color: red; font-weight: bold; }
 
-	height: 250px;
-	width: 250px
-}
+ #fish { color: orange; font-style: italic;} }
 
-body { text-align: center; }
+
+
+
